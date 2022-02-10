@@ -1,0 +1,12 @@
+public static int chiefHopper(List<Integer> arr) {
+    // Write your code here
+        double minEnergy = 0;
+        Collections.reverse(arr);
+        
+        for(int height : arr){
+            minEnergy = Math.ceil((minEnergy + height) / 2);
+	    //math ceil because of every calculation want the biggest calculation 
+        }
+        
+        return (int) minEnergy;
+    }
