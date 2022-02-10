@@ -2,3 +2,4 @@
 2. https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true
 3. https://www.hackerrank.com/challenges/truck-tour/problem?isFullScreen=true
 4. https://www.hackerrank.com/challenges/chief-hopper/problem?isFullScreen=true
+5. https://www.hackerrank.com/challenges/making-candies/problem?isFullScreen=true
